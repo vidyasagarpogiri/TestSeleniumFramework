@@ -6,7 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.support.PageFactory;       
 
 import com.crm.qa.base.TestBase;
-
+   
 public class SearchPage extends TestBase {  
 
 	public static By searchInputText = By.id("searchInput");
