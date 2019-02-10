@@ -25,8 +25,4 @@ public class SearchPage extends TestBase {
 		driver.findElement(searchInputText).sendKeys(text);
 		driver.findElement(searchButton).click();
 	}
-	
-	
-	
-
 }
