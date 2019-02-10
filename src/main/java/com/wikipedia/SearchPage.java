@@ -30,4 +30,3 @@ public class SearchPage extends TestBase {
 	
 
 }
-   
