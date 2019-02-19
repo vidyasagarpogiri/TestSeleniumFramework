@@ -1,7 +1,3 @@
-/*
- * @author Naveen Khunteta
- * 
- */
 
 package com.wikipedia;
                                      
