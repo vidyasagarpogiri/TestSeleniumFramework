@@ -15,7 +15,7 @@ import com.crm.qa.base.TestBase;
 public class SearchWikipediaTest extends TestBase{
 
 	   
-	public SearchWikipediaTest(){
+	public SearchWikipediaTest(){             
 			super();
 			
 	}
